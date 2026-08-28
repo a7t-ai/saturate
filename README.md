@@ -21,7 +21,6 @@ You should see a parallel collapse, a serialize, then a hold — without clickin
 
 Chrome-only dry run: enable `chrome://flags/#enable-webmcp-testing`, relaunch, and use the [Model Context Tool Inspector](https://chromewebstore.google.com/detail/model-context-tool-inspec/gbpdfapgefenggkahomfgkhfehlcenpd) on the editor.
 
-Judges: see [`docs/JUDGES.md`](docs/JUDGES.md).
 
 ## Develop
 
