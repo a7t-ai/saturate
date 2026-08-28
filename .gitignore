@@ -1,0 +1,36 @@
+# dependencies
+node_modules
+
+# build
+dist
+dist-ssr
+*.local
+.wrangler
+
+# private working notes
+PLAN.md
+
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# editors / OS
+.DS_Store
+.idea
+.vscode
+*.swp
+*.swo
+
+# tests / coverage
+coverage
+*.tsbuildinfo
+node_modules/.tmp
